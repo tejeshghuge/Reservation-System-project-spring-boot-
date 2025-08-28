@@ -1,6 +1,6 @@
 # Reservation System (Spring Boot)
 
-## 🚀 About
+##  About
 A beginner-friendly Spring Boot project for managing reservations.
 
 ### Features
@@ -8,18 +8,18 @@ A beginner-friendly Spring Boot project for managing reservations.
 - View reservations
 - Delete reservation
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Java 17+
 - Spring Boot
 - Spring Data JPA
 - H2 Database
 
-## ▶️ Run Project
+##  Run Project
 ```bash
 mvn spring-boot:run
 ```
 
-## 📌 API Endpoints
+##  API Endpoints
 - `POST /api/reservations` → Add new reservation  
 - `GET /api/reservations` → Get all reservations  
 - `DELETE /api/reservations/{id}` → Delete reservation  
